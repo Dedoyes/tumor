@@ -1,0 +1,6 @@
+__pycache__/
+*.pth
+*.pt
+*.npy
+*.mhd
+*.raw

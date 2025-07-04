@@ -11,5 +11,7 @@
 ./src/unet_train.py是对二维语义分割模型unet进行训练
 运行方法(shell$) : python3 ./src/unet_train.py
 
+目前状态 ： 肿瘤检测准确率98.5%,unet语义分割loss为0.002
+
 
 ![image](https://github.com/user-attachments/assets/1c2e7303-4105-4bf8-ae55-c12f6c6f43d2)
